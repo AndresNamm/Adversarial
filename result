@@ -1,0 +1,36 @@
+Starting on 4-4 at 8:39:24
+
+Question q4
+===========
+*** PASS: test_cases\q4\0-expectimax1.test
+*** PASS: test_cases\q4\1-expectimax2.test
+*** PASS: test_cases\q4\2-one-ghost-3level.test
+*** PASS: test_cases\q4\3-one-ghost-4level.test
+*** PASS: test_cases\q4\4-two-ghosts-3level.test
+*** PASS: test_cases\q4\5-two-ghosts-4level.test
+*** Running ExpectimaxAgent on smallClassic 1 time(s).
+Pacman died! Score: 303
+Average Score: 303.0
+Scores:        303.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+*** Finished running ExpectimaxAgent on smallClassic after 1 seconds.
+*** Won 0 out of 1 games. Average score: 303.000000 ***
+*** PASS: test_cases\q4\6-pacman-game.test
+
+### Question q4: 4/4 ###
+
+
+Finished at 8:39:26
+
+Provisional grades
+==================
+Question q4: 4/4
+------------------
+Total: 4/4
+
+Wish you have fun playing the game!
+
+Please remember to submit the required files to Moodle before the deadline.
+***Kindly Reminder: please follow the submission requirements to avoid unnecessary mistakes***
+
